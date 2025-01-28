@@ -4,6 +4,7 @@
 
 A generic class declaration looks like a non-generic class declaration, except that the class name is followed by a type parameter section.
 
+it like similar to class, , but it allows you to specify a type when you create an object from it.
 The type parameter section of a generic class can have one or more type parameters separated by commas. These classes are known as parameterized classes or parameterized types because they accept one or more parameters.
 
 **Syntax:**
